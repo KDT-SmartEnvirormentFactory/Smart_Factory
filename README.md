@@ -53,3 +53,9 @@ Hardware / Embedded,
 Connectivity,
 Frontend / Mobile,
 AI / Vision,
+
+
+
+[유튜브 영상_최종구동]
+https://www.youtube.com/watch?v=0SDSMvGKCxE
+
